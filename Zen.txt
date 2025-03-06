@@ -1,13 +1,11 @@
 Zen of Python
 
-<<<<<<< HEAD
-
-
-
+4.Complex is better than complicated.
 
 5.Flat is better than nested.
-=======
+
 12.In the face of ambiguity, refuse the temptation to guess.
 
+28.Although practicality beats purity.
+
 51.Although that way may not be obvious at first unless you're Dutch.
->>>>>>> d505ebcf8fc5ab43637c6729afdba4de7cc32c37
