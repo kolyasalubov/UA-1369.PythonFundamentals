@@ -1,3 +1,0 @@
-Zen of Python
-
-11.Unless explicitly silenced.
