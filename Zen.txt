@@ -1,8 +1,8 @@
 Zen of Python
 
 6.Sparse is better than dense.
-8.Special cases aren't special enough to break the rules.
 7.Readability counts.
+8.Special cases aren't special enough to break the rules.
 14.Although that way may not be obvious at first unless you're Dutch.
 16.Although never is often better than *right* now.
 24.Flat is better than nested.
