@@ -1,3 +1,4 @@
 6.Sparse is better than dense.
 14.Although that way may not be obvious at first unless you're Dutch.
 30.Unless explicitly silenced.
+7.Readability counts.
