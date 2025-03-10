@@ -11,6 +11,7 @@ Zen of Python
 14.Although that way may not be obvious at first unless you're Dutch.
 16.Although never is often better than *right* now.
 20.Beautiful is better than ugly.
+22.Simple is better than complex.
 28.Although practicality beats purity.
 30.Unless explicitly silenced.
 32.There should be one-- and preferably only one --obvious way to do it.
