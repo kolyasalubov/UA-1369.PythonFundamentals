@@ -1,5 +1,5 @@
-
 Zen of Python
+
 4.Complex is better than complicated. 
 5.Flat is better than nested.
 6.Sparse is better than dense.
@@ -12,6 +12,7 @@ Zen of Python
 16.Although never is often better than *right* now.
 20.Beautiful is better than ugly.
 21.Explicit is better than implicit.
+24.Flat is better than nested.
 26.Readability counts.
 28.Although practicality beats purity.
 29.Errors should never pass silently.
