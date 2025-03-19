@@ -1,1 +1,0 @@
-# UA-1369.PythonFundamentals
