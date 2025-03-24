@@ -14,17 +14,16 @@ print (prod)
 #Reverse Number 
 revers_num = (num[::-1])
 print (revers_num)
-
 #List sort Method
-#clean_tuple =''.join(num_tuple)
+clean_tuple =''.join(num_tuple)
 sort_tuple = sorted(clean_tuple)
 clean_sort = ''.join(sort_tuple)
 result = int(clean_sort)
 print (result)
 
 # interchange the values of two variables
-num1 = int(input("Enter a First number:"))
-num2 = int(input("Enter a Second number:"))
+num1 = int(input("Enter a first number:"))
+num2 = int(input("Enter a second number:"))
 print ("Original numbers","A =",num1, "B =",num2 )
 num1,num2 = num2,num1
 print ("After swap","A =",num1, "B =",num2 )
