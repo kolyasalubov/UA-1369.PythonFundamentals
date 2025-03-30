@@ -1,6 +1,6 @@
 Zen of Python
 
-
+3.Simple is better than complex.
 4.Complex is better than complicated. 
 5.Flat is better than nested.
 6.Sparse is better than dense.
@@ -13,6 +13,7 @@ Zen of Python
 14.Although that way may not be obvious at first unless you're Dutch.
 15.Now is better than never.
 16.Although never is often better than *right* now.
+19.Namespaces are one honking great idea -- let's do more of those!
 20.Beautiful is better than ugly.
 21.Explicit is better than implicit.
 22.Simple is better than complex.
