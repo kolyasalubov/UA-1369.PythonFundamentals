@@ -1,0 +1,8 @@
+while True:
+    lgn = input("Enter your login: ")
+
+    if lgn == "First":
+        print ("Welcome, user!")
+        break
+    else:
+        print ("Error: Invalid login")

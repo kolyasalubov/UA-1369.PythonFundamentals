@@ -1,0 +1,8 @@
+even_num = [num for num in range(10) if num % 2 == 0]
+print (even_num)
+
+odd_num = [num for num in range(10) if num % 3 == 0]
+print (odd_num)
+
+numbers = [num for num in range(10) if not num % 3 == 0 and not num % 2 == 0]
+print (numbers)
