@@ -1,6 +1,6 @@
 #знайти кількість цифр в числі та порахувати їх добуток
 number = 8214
-digits = [int(a) for a in str(number)]
+digits = [int(d) for d in str(number)]
 
 # Кількість цифр
 count = len(digits)
@@ -13,7 +13,7 @@ for digit in digits:
 # Цифри написані у зворотному порядку
 reversed_digits = digits[::-1]
 
-# Відсортовані цифри по зростанню
+# Відсортовані цифри по зростанні
 sorted_digits = sorted(digits)
 
 print("Кількість цифр:", count)
