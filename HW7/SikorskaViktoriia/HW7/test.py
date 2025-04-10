@@ -7,7 +7,7 @@
 
 ###############################################################################################
 
-#Task2:Given two ordered pairs calculate the distance between them. Round to two decimal places. This should be easy to do in 0(1) timing.
+#Task3:Given two ordered pairs calculate the distance between them. Round to two decimal places. This should be easy to do in 0(1) timing.
 
 # def distance(x1, y1, x2, y2):
 #     count = ((x1-x2)**2+(y1-y2)**2)**0.5
@@ -15,7 +15,7 @@
 
 ###############################################################################################
 
-#Task3:Write a function taking in a string like WOW this is REALLY          amazing and returning Wow this is really amazing. String should be capitalized and properly spaced. Using re and string is not allowed.
+#Task2:Write a function taking in a string like WOW this is REALLY          amazing and returning Wow this is really amazing. String should be capitalized and properly spaced. Using re and string is not allowed.
 
 # def filter_words(st):
 #     words = st.split() 
@@ -34,7 +34,7 @@
 
 ###############################################################################################
 
-#Task5:  You need to write a function that reverses the words in a given string. Words are always separated by a single space.
+#Task3:  You need to write a function that reverses the words in a given string. Words are always separated by a single space.
 
 # def reverse(st):
 #     words = st.split()  
